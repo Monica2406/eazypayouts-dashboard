@@ -1,0 +1,7 @@
+{
+  "balance": 21337,
+  "transactions": [
+    { "id": 1, "date": "07/05/2024 01:04 PM", "credit": 21337, "balance": 21337, "utr": "1000000", "account": "AC0CF7RRUY407QHU" },
+    { "id": 2, "date": "04/05/2024 12:38 PM", "credit": 21337, "balance": 21337, "utr": "CMS4136431811", "account": "0104SLNEFTPL" }
+  ]
+}
