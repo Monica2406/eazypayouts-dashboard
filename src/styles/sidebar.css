@@ -1,0 +1,30 @@
+.sidebar {
+  width: 200px;
+  background-color: #111;
+  color: #fff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.logo {
+  font-size: 22px;
+  margin-bottom: 40px;
+}
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+.sidebar ul li {
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.sidebar ul li.active {
+  background: #2b2b2b;
+  padding: 8px;
+  border-radius: 8px;
+}
+.logout {
+  margin-top: auto;
+  cursor: pointer;
+}
