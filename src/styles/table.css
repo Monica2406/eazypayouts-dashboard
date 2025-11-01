@@ -1,0 +1,23 @@
+.table-container {
+  margin-top: 20px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: left;
+}
+td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+.credit {
+  color: #00aa5b;
+  font-weight: 600;
+}
+.table-title {
+  margin-bottom: 10px;
+}
